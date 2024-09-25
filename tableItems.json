@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "/src/assets/1 420.png",
+        "name": "Rugged",
+        "volumeOne": 2.3,
+        "volumeTwo": 3.1,
+        "percent": null,
+        "sales": 3.4,
+        "price": 0.9
+    },
+    {
+        "id": 2,
+        "imgSrc": "/src/assets/6 10.png",
+        "name": "Rugged",
+        "volumeOne": 3.8,
+        "volumeTwo": 1.1,
+        "percent": -21,
+        "sales": 3.4,
+        "price": 0.9
+    },
+    {
+        "id": 3,
+        "imgSrc": "/src/assets/12 2.png",
+        "name": "Rugged",
+        "volumeOne": 348.4,
+        "volumeTwo": 9.8,
+        "percent": 9,
+        "sales": 3.4,
+        "price": 0.9
+    },
+    {
+        "id": 4,
+        "imgSrc": "/src/assets/14 18.png",
+        "name": "Rugged",
+        "volumeOne": 11.2,
+        "volumeTwo": 4.5,
+        "percent": -11,
+        "sales": 3.4,
+        "price": 0.9
+    },
+    {
+        "id": 5,
+        "imgSrc": "/src/assets/20 49.png",
+        "name": "Rugged",
+        "volumeOne": 8,
+        "volumeTwo": 7.3,
+        "percent": 54,
+        "sales": 3.4,
+        "price": 0.9
+    },
+    {
+        "id": 6,
+        "imgSrc": "/src/assets/1 420.png",
+        "name": "Rugged",
+        "volumeOne": 7.2,
+        "volumeTwo": 5.5,
+        "percent": null,
+        "sales": 3.4,
+        "price": 0.9
+    },
+    {
+        "id": 7,
+        "imgSrc": "/src/assets/6 10.png",
+        "name": "Rugged",
+        "volumeOne": 1.2,
+        "volumeTwo": 6.12,
+        "percent": -3,
+        "sales": 3.4,
+        "price": 0.9
+    }
+]

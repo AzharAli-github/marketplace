@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Price",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Version",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Background",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Clothes",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Eyes",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Head",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Mouth",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Neck",
+        "description": "Content for Nested Dropdown"
+    },
+    {
+        "name": "Skin",
+        "description": "Content for Nested Dropdown"
+    }
+]

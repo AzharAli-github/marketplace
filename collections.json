@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "./src/assets/collectionImages/111.png",
+        "header": "Vandals",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 2,
+        "imgSrc": "./src/assets/collectionImages/2 1.png",
+        "header": "Weeping",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 3,
+        "imgSrc": "./src/assets/collectionImages/3 1.png",
+        "header": "Rakkudos",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 4,
+        "imgSrc": "./src/assets/collectionImages/5 64.png",
+        "header": "Shadowy",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 5,
+        "imgSrc": "./src/assets/collectionImages/7 1.png",
+        "header": "Degods",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 6,
+        "imgSrc": "./src/assets/collectionImages/8 1.png",
+        "header": "Froots",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 7,
+        "imgSrc": "./src/assets/collectionImages/9 1.png",
+        "header": "Mischievous",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 8,
+        "imgSrc": "./src/assets/collectionImages/10 1.png",
+        "header": "Okay Bears",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 9,
+        "imgSrc": "./src/assets/collectionImages/11 1.png",
+        "header": "Dummies",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 10,
+        "imgSrc": "./src/assets/collectionImages/12 1.png",
+        "header": "Degenerate",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 11,
+        "imgSrc": "./src/assets/collectionImages/Mask group.png",
+        "header": "Monquiate",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    },
+    {
+        "id": 12,
+        "imgSrc": "./src/assets/collectionImages/Mask.png",
+        "header": "Infected Mob",
+        "number": 9.5,
+        "percentOne": 84.345,
+        "percentTwo": 222.345
+    }
+    
+]
